@@ -1,12 +1,9 @@
-Oii eu sou o matheus! 👋
-bem vindo ao meu perfil zé
+Oi! Eu sou o Matheus 👋
 
-⛹️ Sobre mim
-Eu sou um técnico de desenvolvimento de sistemas atualmente cursando no Senai Jacob Lafer 😊😊. Mas também tenho outros passatempos como basquete videogame e animes. E amo minha namorada Bruna
+Sou Técnico em Desenvolvimento de Sistemas formado pelo SENAI, com afinidade por tecnologia, programação e criação visual. Desenvolvo projetos pessoais que envolvem desenvolvimento, design e modelagem 3D, sempre buscando evoluir, aprender coisas novas e melhorar meu processo.
 
-😎 Habilidades
-Javascript, HTML, CSS, PHP, React, React native, Git e Github
+Sou proativo, curioso e me adapto bem a novos desafios. Busco oportunidades para aplicar meus conhecimentos, crescer profissionalmente e contribuir de forma real com a empresa.
 
-Insta: https://www.instagram.com/matias_krds/?next=%2F
+Habilidades
 
-Twitter: https://x.com/matiasmexirica
+JavaScript, HTML, CSS, PHP, React, React Native, Python, C#, Blender, Photoshop, Git e GitHub
